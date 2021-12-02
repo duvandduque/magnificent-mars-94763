@@ -1,4 +1,4 @@
-nodeVersion: 16.6.1
+nodeVersion: 17.2.0
 stackbitVersion: ~0.3.0
 ssgName: jekyll
 publishDir: _site
